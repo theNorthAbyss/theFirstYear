@@ -1,6 +1,6 @@
 # theFirstYear
-The first year of college/coding.
-Second Semester at LSU.
-Current Class: CSC 1351
-Proffesor: Anas Mahmoud
+The first year of college/coding.<br/>
+Second Semester at LSU. <br/>
+Current Class: CSC 1351. <br/>
+Proffesor: Anas Mahmoud.
 
